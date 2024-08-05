@@ -4,7 +4,7 @@ Welcome to my personal website! This project showcases my portfolio and provides
 
 ## URL
 
-You can visit my website at [http://douglascerrato2.digital](http://douglascerrato2.digital).
+You can visit my website at [https://douglascerrato2.digital](http://douglascerrato2.digital).
 
 ## Features
 
